@@ -1,0 +1,21 @@
+--名称
+appname="IMGFlash"
+--版本号
+appver="v1.0bate-Reinforce-0.6a4"
+--版本
+appcode="20251110"
+--SDK
+appsdk="15"
+--包名
+packagename="com.flashimg.mi"
+--调试模式
+debugmode=false
+--应用权限
+user_permission={
+  "INTERNET",
+  "WRITE_EXTERNAL_STORAGE",
+}
+--跳过编译
+skip_compilation={
+
+}

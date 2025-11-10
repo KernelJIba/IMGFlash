@@ -1,0 +1,10 @@
+{
+  LinearLayout;
+  layout_height="fill";
+  layout_width="fill";
+  gravity="center";
+  {
+    TextView;
+    text="正在获取Root权限...";
+  };
+};
